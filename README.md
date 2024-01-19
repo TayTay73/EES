@@ -2,6 +2,8 @@
 
 ## Knowledge Base
 
+>These are living documents and will evolve as knowledge is introduced.
+
 1. Introduction:
 
 Briefly explain the purpose of the knowledge base and its benefits for the training department.
