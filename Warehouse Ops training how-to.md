@@ -1,86 +1,137 @@
 # Warehouse Ops How-to
 
->This is a step by step to guide you through the process of a training event. "Cradle to Grave."
+>This is a guide through the process of a training event. "Cradle to Grave."
 
-## 1. Dates
+## 1. Host
 
-> Decide on possible dates (also keeping in mind holidays)
+>This section is for figuring out where you can have your class.
 
-* Review calendar events on EES intranet and contracted hotels blackout dates if any. Decide on which store will be hosting  
-  * For Store Services this is usually 049 Houston  
+- [ ] 1. List out possible locations that can accommodate your training.
 
-* Coordinate with the store to prepare space. Request drinks, plates, cups, utensils, and napkins. Refer to [049 Class Res]
+    * Depending on your situation you may be able to hold the training at your store.
+    * If your store can not accommodate the training then consider your host store.  
+    * If you are at the host store and cannot host the training consider the next closest host store.
 
-## 2. Hotel
+- [ ] 2. Decide on a primary location and a backup just in case.
 
-* Email appropriate hotel to confirm availability for the dates decided on
+- [ ] 3. Coordinate with the Hosting location to decide on dates and prepare the classroom. Request drinks, plates, cups, utensils, and napkins. For a template click [here]
+
+## 2. Dates
+
+>This section is to help decide on possible dates.
+
+- [ ] 1. Review calendars
+    * Review events on EES intranet.  
+    * Review decided store events if any.
+    * Review contracted/preferred hotel's blackout dates if any.
+    * Keep in mind major holidays.
+
+- [ ] Dates
+
+## 3. Hotel
+
+>This Section is for an initial confirmation of available rooms.
+
+- [ ] 1. Email appropriate hotel to confirm availability for about 15 rooms on the dates decided on.
+    * A Template is located [here]
+- [ ] 2. Once availability is confirmed you can continue to the next steps.
+
 >This is usually Hilton Houston North in Greenspoint when using 049 for Store Services training.
-* Refer to [Hilton North]
 
-## 3. Create --Attendee List--
+## 4. Create --Attendee List--
 
-* Create an excel with:  
-  * Store number  
-  * location  
-  * first  
-  * last  
-  * full name  
-  * role  
-  * Room size  
-  * confirmation #  
-  * Note
->Add attendees as needed Once List has reached the max number add any additional request to the reserve list.  
+>This is just an example of info you may want. Adjust however necessary.
 
->When adding attendees be sure to pair them properly to rooms and color code each room.
+- [ ] 1. Create an excel with:  
+    * Store number  
+    * location (city, state)
+    * first  
+    * last  
+    * full name  
+    * role  
+    * Room size - double queen or King
+    * confirmation #  
+    * Notes
 
-## 4. Add/Invite Attendees
+2. Add attendees as needed. Refer to the next section
 
->This can Be 25 to 30 people. Depending on the needs or availability of Trainers.
+>When adding attendees be sure to pair them properly to rooms and color code each room to help with.
 
-1. <ins>Create Attendee List</ins>
+- [ ] Finished
 
-* Get list of LDPs that need to attend. This should be about 10 people. Add them to the **Attendee List.**
+## 5. Add Attendees
 
-* Review Attendees Reserve list. Add them to the **Attendee List**.
+>This is an order of operations for adding Attendees to Attendee List.
 
-2. <ins>Email Managers</ins>  
+- [ ] 1. Get list of LDPs that need to attend. This should be about 10 people. Add them to the **Attendee List.**
 
- * Create an Email to **Store Managers** notifying everyone of the upcoming class and ask for individuals they feel should attend
+    > This is for locations that may be hosting LDPs
 
-    * use a template If needed  
-      >a company wide email might be sent out requesting attendees. (Last Resort)
+- [ ] 2. Review Attendees Reserve list. Add them to the **Attendee List**.
 
-3. <ins>Make Hotel Reservations</ins>  
+- [ ] 3. Email Managers
 
-* Email Hotel with attendee list and request rooms.
+    * Create an Email to **Store Managers** notifying everyone of the upcoming class and ask for individuals they feel should attend
+    * use a [template] If needed
+      >a company wide email may be sent out requesting attendees. (Last Resort)
 
-  * If attendees request their own room. Be sure to have a confirmation from supervisor or manager.  
+- [ ] 4. Once the list has reached the max number (25) add any additional request to a reserve list.
 
-* Save the confirmation and place confirmation numbers on Attendee excel.
+- [ ] Finished
 
-3. <ins>Rental Reservations</ins>
-  > Rentals are the responsibility of the attendees. The cost is the responsibility of the attendees store.
-* Inform the attendees that they need to set up a rental for the class if they are driving 
-* Rentals are authorized for reimbursement based on the EES policy.
+## 6. Make Hotel Reservations  
 
-## Reminders
+>This is for getting the exact number of rooms for the training event.
+>Don't forget to add any instructors or helpers to your attendee list to make room reservations.
 
->Email out reminders as necessary
+- [ ] 1. Email Hotel with attendee list to create reservations of actual number of rooms
+    * If attendees request their own room.  
+      >Be sure to have a confirmation from store manager. The cost comes from their store.
+- [ ] 2. Save the confirmation and place confirmation numbers on Attendee excel.
 
-* Reminding attendees of the class
+- [ ] Finished
 
-* Remove any dropouts – replace those dropouts
+## 7. Email Attendees
 
-* Confirm with store that will be hosting the class
+>This section is to help with creating a calendar invite.
 
-## Order Food
+- [ ] 1. Create a calendar invite to all attendees and their supervisors.
 
-> About 2 weeks’ out
+- [ ] 2. Here are a few things to remember to add to your invite.
+
+    * Rentals and flights are the responsibility of the attendees. The cost is the responsibility of the attendees store.
+      > Rentals are authorized for reimbursement based on the EES policy.
+    * Location of the training and hotel
+    * Dates of the training
+    * Dates for travel
+    * Check-in, check-out dates
+    * Training schedule
+    * Times training starts if not included in the schedule
+    * Inform attendees they can request their own hotel room
+      >They need approval from their Branch Manager or higher.
+      > Attendees can request to room together if they are doubled up.  You just need approval form the individual they are requesting to room with.
+3. A template is located [here].
+
+- [ ] Finished
+
+## 8. Reminders
+
+>Email out reminders as necessary.
+
+- [ ] * Send out periotic emails reminding attendees of the class.
+- [ ] * Remove any dropouts and place them in the reserve list
+- [ ] * Replace those dropouts from the reserve list if any.
+- [ ] * Check-in with store that will be hosting the class
+
+## 9. Order Food
+
+>This is a guide to order food
+>About 2 weeks out. These are just examples. Feel free to be free..
+>Get food for every day of training. Whoever is running the training can take the attendees out for diner. Please use good judgment.
 
 1. Pizza
 
 * These are suggestions:
-
   * 6 Pepperoni
   * 6 Meat lovers
   * 3 Supreme
@@ -97,16 +148,17 @@
   * 2 of all the bottled sauces
   * 30 cookies
   * 30 Chips
-  * 1 gal sweet tea 
-  * 1 gal unsweet tea
+  * 1 gal sweet tea
+  * 1 gal un-sweet tea
 
-## Gather Necessary Equipment
+- [ ] Finished
 
->Contact NacSpace for additional wands for the class  
->Ensure the wands are up to date and working.  
+## 10. Prepare
 
-* Double Check
-  * Attendees
-  * Hotel Reservations
-  * Rental car if necessary
-  * Equipment
+>This section is for the instructor or coordinator that is running the event.
+
+- [ ] 1. Be sure Instructors have hotel reservations
+- [ ] 2. Make sure Instructors rent a car for themselves.
+- [ ] 3. If necessary make sure instructors schedule their flights.
+- [ ] 4. Contact NacSpace for additional wands for the class  
+- [ ] 5. Ensure the wands are up to date and working.  
