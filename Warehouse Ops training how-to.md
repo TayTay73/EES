@@ -7,10 +7,9 @@
 >This section is for figuring out where you can have your class.
 
 - [ ] 1. List out possible locations that can accommodate your training.
-
-    * Depending on your situation you may be able to hold the training at your store.
-    * If your store can not accommodate the training then consider your host store.  
-    * If you are at the host store and cannot host the training consider the next closest host store.
+  - Depending on your situation you may be able to hold the training at your store.
+  - If your store can not accommodate the training then consider your host store.  
+  - If you are at the host store and cannot host the training consider the next closest host Store.
 
 - [ ] 2. Decide on a primary location and a backup just in case.
 
@@ -21,19 +20,19 @@
 >This section is to help decide on possible dates.
 
 - [ ] 1. Review calendars
-    * Review events on EES intranet.  
-    * Review decided store events if any.
-    * Review contracted/preferred hotel's blackout dates if any.
-    * Keep in mind major holidays.
+  - Review events on EES intranet.  
+  - Review decided store events if any.
+  - Review contracted/preferred hotel's blackout dates if any.
+  - Keep in mind major holidays.
 
-- [ ] Dates
+- [ ] Dates gathered
 
 ## 3. Hotel
 
 >This Section is for an initial confirmation of available rooms.
 
 - [ ] 1. Email appropriate hotel to confirm availability for about 15 rooms on the dates decided on.
-    * A Template is located [here]
+  - A Template is located [here]
 - [ ] 2. Once availability is confirmed you can continue to the next steps.
 
 >This is usually Hilton Houston North in Greenspoint when using 049 for Store Services training.
@@ -43,17 +42,17 @@
 >This is just an example of info you may want. Adjust however necessary.
 
 - [ ] 1. Create an excel with:  
-    * Store number  
-    * location (city, state)
-    * first  
-    * last  
-    * full name  
-    * role  
-    * Room size - double queen or King
-    * confirmation #  
-    * Notes
+  - Store number  
+  - location (city, state)
+  - first  
+  - last  
+  - full name  
+  - role  
+  - Room size - double queen or King
+  - confirmation #  
+  - Notes
 
-2. Add attendees as needed. Refer to the next section
+- [ ] 2. Add attendees as needed. Refer to the next section
 
 >When adding attendees be sure to pair them properly to rooms and color code each room to help with.
 
@@ -71,8 +70,8 @@
 
 - [ ] 3. Email Managers
 
-    * Create an Email to **Store Managers** notifying everyone of the upcoming class and ask for individuals they feel should attend
-    * use a [template] If needed
+  - Create an Email to **Store Managers** notifying everyone of the upcoming class and ask for individuals they feel should attend
+  - use a [template] If needed
       >a company wide email may be sent out requesting attendees. (Last Resort)
 
 - [ ] 4. Once the list has reached the max number (25) add any additional request to a reserve list.
@@ -85,9 +84,11 @@
 >Don't forget to add any instructors or helpers to your attendee list to make room reservations.
 
 - [ ] 1. Email Hotel with attendee list to create reservations of actual number of rooms
-    * If attendees request their own room.  
+  - If attendees request their own room.  
       >Be sure to have a confirmation from store manager. The cost comes from their store.
-- [ ] 2. Save the confirmation and place confirmation numbers on Attendee excel.
+- [ ] 2. Start the process of creating a contract with the hotel
+    >Not using contracts to receive a company rate?  It may be beneficial to do set this up.
+- [ ] 3. Save the confirmation and place confirmation numbers on Attendee excel for future use.
 
 - [ ] Finished
 
@@ -96,34 +97,76 @@
 >This section is to help with creating a calendar invite.
 
 - [ ] 1. Create a calendar invite to all attendees and their supervisors.
+    >Side note.. Do not do this for 2 classes at a time unless mentally prepared to have your inbox flooded.
+  - It may be beneficial to turn of responses to the invite.
 
 - [ ] 2. Here are a few things to remember to add to your invite.
-
-    * Rentals and flights are the responsibility of the attendees. The cost is the responsibility of the attendees store.
+  - Rentals and flights are the responsibility of the attendees. The cost is the responsibility of the attendees store.
       > Rentals are authorized for reimbursement based on the EES policy.
-    * Location of the training and hotel
-    * Dates of the training
-    * Dates for travel
-    * Check-in, check-out dates
-    * Training schedule
-    * Times training starts if not included in the schedule
-    * Inform attendees they can request their own hotel room
+    - Location of the training and hotel
+    - Dates of the training
+    - Dates for travel
+    - Check-in, check-out dates
+    - Training schedule
+    - Times training starts if not included in the schedule
+    - Inform attendees they can request their own hotel room
       >They need approval from their Branch Manager or higher.
+
       > Attendees can request to room together if they are doubled up.  You just need approval form the individual they are requesting to room with.
-3. A template is located [here].
+
+- [ ] 3. A template is located [here].
 
 - [ ] Finished
 
-## 8. Reminders
+## 8. Prepare Training Schedule
+
+- [ ] 1. Decide on appropriate topics for the time available.
+    >If doing a multi day class you may be able to cover all the topic.
+
+    >If doing a whole day or half a day then time will not permit all topics.
+
+- [ ] 2. Go [here] for all topics and create a schedule based on needed topics.
+
+- [ ] 3. Schedule Completed
+
+## 9. Attendee Changes
+
+### 1. Dropouts
+
+> Attendees may dropout for any reason.
+
+- [ ] 1. Add attendee to the reserve list.
+- [ ] 2. Remove them from the attendee list.
+- [ ] 3. Go down the reserve list and email possible replacements to see if they can attend.
+- [ ] 4. Add replacement to the attendee list
+- [ ] 5. Contact Hotel and have the dropout changed for the replacement.
+- [ ] 6. Add new attendee to the calendar invite.  
+- [ ] 7. Clear 1-6
+
+### 2. Additions
+
+>Special people added by other special people.
+
+- [ ] 1. Add replacement to the attendee list
+- [ ] 2. Contact Hotel and have the dropout changed for the replacement.
+- [ ] 3. Add new attendee to the calendar invite.
+
+### 3. Room Changes
+
+- [ ] 1. Email Hotel including the changes needed.
+- [ ] 2. When Changes are confirmed make the changes on the attendee list.
+- [ ] 3. Note changes/reason in notes section on the attendee list.
+
+## 10. Reminders
 
 >Email out reminders as necessary.
 
-- [ ] * Send out periotic emails reminding attendees of the class.
-- [ ] * Remove any dropouts and place them in the reserve list
-- [ ] * Replace those dropouts from the reserve list if any.
-- [ ] * Check-in with store that will be hosting the class
+- [ ] Send out periotic emails reminding attendees of the class.
+- [ ] Remove any Dropouts and place them in the reserve list.
+- [ ] Replace those dropouts from the reserve list if any.
+- [ ] Check-in with store that will be hosting the class
 
-## 9. Order Food
+## 11. Order Food
 
 >This is a guide to order food
 >About 2 weeks out. These are just examples. Feel free to be free..
@@ -131,29 +174,29 @@
 
 1. Pizza
 
-* These are suggestions:
-  * 6 Pepperoni
-  * 6 Meat lovers
-  * 3 Supreme
-  * 2 Cheese
-  * 3 mini cinna-bun
+- These are suggestions:
+  - 6 Pepperoni
+  - 6 Meat lovers
+  - 3 Supreme
+  - 2 Cheese
+  - 3 mini cinna-bun
 
 2. Chick-fil-a
 
-* also suggestions:
+- also suggestions:
 
-  * 15 Spicy Chicken Sandwiches
-  * 15 regular chicken sandwiches
-  * Nugget tray 2nd size (about 120 nuggets)
-  * 2 of all the bottled sauces
-  * 30 cookies
-  * 30 Chips
-  * 1 gal sweet tea
-  * 1 gal un-sweet tea
+  - 15 Spicy Chicken Sandwiches
+  - 15 regular chicken sandwiches
+  - Nugget tray 2nd size (about 120 nuggets)
+  - 2 of all the bottled sauces
+  - 30 cookies
+  - 30 Chips
+  - 1 gal sweet tea
+  - 1 gal un-sweet tea
 
 - [ ] Finished
 
-## 10. Prepare
+## 12. Prepare
 
 >This section is for the instructor or coordinator that is running the event.
 
@@ -162,3 +205,5 @@
 - [ ] 3. If necessary make sure instructors schedule their flights.
 - [ ] 4. Contact NacSpace for additional wands for the class  
 - [ ] 5. Ensure the wands are up to date and working.  
+
+- [ ] Clear Checklist
